@@ -2,7 +2,7 @@
 #  •──────────•°•❀ Hello there! I'm Caryn! ❀•°•──────────•
 <pre>
   
-                                   <img align="center" height="250" src="https://media.discordapp.net/attachments/1022007941169164309/1113785485056294945/IMG_7395.gif?ex=662d84d0&is=662c3350&hm=a6920d92d9dac9e96abe72cb7eab3464bd2467ef318dbfc959dee82010675468&" /> </a>
+                                       <img align="center" height="250" src="https://media.discordapp.net/attachments/1022007941169164309/1113785485056294945/IMG_7395.gif?ex=662d84d0&is=662c3350&hm=a6920d92d9dac9e96abe72cb7eab3464bd2467ef318dbfc959dee82010675468&" /> </a>
 </a></pre>
 ##  •───────────•°•❀ ʕ•ᴥ•ʔ ❀•°•───────────•
 <!--
