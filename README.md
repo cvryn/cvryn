@@ -2,8 +2,8 @@
 #  •──────────•°•❀ Hello there! I'm Caryn! ❀•°•──────────•
 <pre>
   
-                                       <img align="center" height="250" src="https://github.com/cvryn/cvryn/blob/main/cat-cute.gif" /> </a>
-</a></pre>
+                                       <img align="center" height="250" src="https://github.com/cvryn/cvryn/blob/main/cat-cute.gif" alt="sleepy kitty" />
+</pre>
 ##  •───────────•°•❀ ʕ•ᴥ•ʔ ❀•°•───────────•
 <!--
 **cvryn/cvryn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
