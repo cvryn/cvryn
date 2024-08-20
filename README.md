@@ -4,7 +4,7 @@
   
                                        <img align="center" height="250" src="https://github.com/cvryn/cvryn/blob/main/cat-cute.gif" alt="sleepy kitty" />
 </pre>
-##  •───────────•°•❀ ʕ•ᴥ•ʔ ❀•°•───────────•
+##  •───────────•°•❀ About me ❀•°•───────────•
 <!--
 **cvryn/cvryn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) and SQLAlchemy
 
-- 💬 Ask me about my cat! (profile picture)
+<!--- - 💬 Ask me about my cat! (profile picture) --->
 - ✨ Fun fact: I enjoy gardening and keeping indoor plants! 🌱
 
 ##  •─────────•°•❀ Technologies ❀•°•─────────•
@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 
+<!---
 ```
 ░░                    ░░██        ██████████        ██        ████
 ░░                    ██▒▒██  ████          ████  ██▒▒██    ██▒▒▒▒██
@@ -81,3 +82,4 @@ Here are some ideas to get you started:
 ░░                    ░░        ████        ████          ████
 ░░
 ```
+--->
