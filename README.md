@@ -1,5 +1,8 @@
 
 #  •──────────•°•❀ Hello there! I'm Caryn! ❀•°•──────────•
+As a full-stack software engineer with a foundation in healthcare and science, I bring a unique perspective on how technology can enhance the healthcare system. My experience in these fields has highlighted numerous opportunities to refine software and UI/UX design for greater efficiency and effectiveness. I have developed a keen understanding of the complexities within healthcare systems and am driven to leverage my skills in JavaScript, Python, and full-stack development to create innovative solutions that improve system functionality and user experience.
+
+Beyond this, I am eager to apply my skills to a variety of passion projects of my own and collaborate with others to develop innovative technologies that meet diverse needs and drive meaningful progress.
 <pre>
   
                                        <img align="center" height="250" src="https://github.com/cvryn/cvryn/blob/main/cat-cute.gif" alt="sleepy kitty" />
