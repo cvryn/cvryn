@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+- 🧠 I’m currently working on LeetCode
 <!--- - 💬 Ask me about my cat! (profile picture) --->
 - ✨ Fun fact: I enjoy gardening and keeping indoor plants! 🌱
 
