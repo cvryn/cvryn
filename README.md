@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- 🌱 I’m currently learning ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) and ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 - 🧠 I’m currently working on LeetCode
 <!--- - 💬 Ask me about my cat! (profile picture) --->
-- ✨ Fun fact: I enjoy gardening and keeping indoor plants! 🌱
+- ✨ Fun fact: I love taking care of my indoor plants! 🌱
 
 ##  •─────────•°•❀ Technologies ❀•°•─────────•
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
